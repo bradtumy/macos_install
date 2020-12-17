@@ -6,6 +6,7 @@ xcode-select --install
 ## Install Home-brew:
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
+## Install packages from homebrew:
 * brew install git
 * brew install maven 
 * brew install ansible
