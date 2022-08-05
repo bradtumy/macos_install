@@ -20,6 +20,7 @@ brew install —-cask docker
 brew install --cask postman
 brew install --cask visual-studio-code
 brew install --cask virtualbox
+brew install --cask neo4j
 
 ## Automation
 brew install ansible
@@ -42,3 +43,4 @@ brew install --cask slack
 brew install --cask telegram
 brew install —-cask iterm2
 brew install --cask notion
+brew install --cask obs 
