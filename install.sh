@@ -1,3 +1,5 @@
+#!/bin/sh 
+
 # Install X Code 
 xcode-select --install
 
@@ -38,5 +40,5 @@ brew install --cask atom
 brew install --cask hazel
 brew install --cask slack
 brew install --cask telegram
-brew install — cask iterm2
+brew install —-cask iterm2
 brew install --cask notion
