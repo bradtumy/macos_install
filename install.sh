@@ -39,6 +39,7 @@ brew install --cask spectacle
 brew install --cask apache-directory-studio
 brew install --cask atom
 brew install --cask hazel
+brew install --cask vlc
 brew cask install vagrant
 brew cask install vagrant-manager
 brew cask install virtualbox
