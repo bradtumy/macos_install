@@ -1,10 +1,5 @@
 # macos_install
-
-## Install X Code 
-xcode-select --install
-
-## Install Home-brew:
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+Use the install.sh script to install MacOS packages from brew
 
 ## Install packages from homebrew:
 
