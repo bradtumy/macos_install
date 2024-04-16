@@ -21,7 +21,10 @@ brew install --cask virtualbox
 ## Utilities
 brew install --cask alfred
 brew install --cask notion
+brew install --cask obs
+brew install --cask rectangle
 brew install --cask spectacle
+brew install --cask telegram
 brew install --cask vlc
 
 
