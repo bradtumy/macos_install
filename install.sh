@@ -20,6 +20,7 @@ brew install --cask virtualbox
 
 ## Utilities
 brew install --cask alfred
+brew install --cask notion
 brew install --cask spectacle
 brew install --cask vlc
 
