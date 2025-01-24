@@ -16,6 +16,7 @@ brew install --cask visual-studio-code
 
 ## Utilities
 brew install --cask alfred
+brew install --cask iterm2
 
 ## Archive
 #brew install ansible
